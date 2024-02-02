@@ -8,7 +8,6 @@ public static void main(String [] args){
     System.out.println("this program for jenkins");
     System.out.println(new Date());
     System.out.println("one more file added");
-
     Student student = new Student();
     student.helloStd();
 
